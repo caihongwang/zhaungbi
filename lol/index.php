@@ -47,7 +47,7 @@ color: #f05557;
     	</form>
 	</div>
 	
-	<div style="padding:20px 15px; height:110px;"><a class="ui-btn-lg ui-btn-danger" href="http://17wap.cn/" target="_blank">此处为广告位，更多源码>></a></div>
+	<div style="padding:20px 15px; height:110px;"><a class="ui-btn-lg ui-btn-danger" href="https://zhuangbi.yzkj.store/" target="_blank">此处为广告位，欢迎咨询>></a></div>
 </div><?php 
 } 
 require_once '../foot.php';
