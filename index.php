@@ -10,7 +10,7 @@ error_reporting(0);
 <html xmlns="http://www.w3.org/1999/xhtml">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport"content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=1.0, user-scalable=yes"/>
-<title>油价地图，带你装逼，带你飞...</title>
+<title>油站科技，带你装逼，带你飞...</title>
 <link type="text/css" rel="stylesheet" href="css/frozen.css" /><style>
 .ui-header-positive, .ui-footer-positive {
 background-color: #f05557;
@@ -22,7 +22,7 @@ color: #f05557;
 </style></head>
 <body ontouchstart="">
 <header class="ui-header ui-header-positive ui-border-b">
-	<h1>油价地图，带你装逼，带你飞...</h1>
+	<h1>油站科技，带你装逼，带你飞...</h1>
 </header>
 <section class="ui-container" style="padding-bottom:55px;">
 <ul class="ui-list ui-list-link ui-border-tb">
